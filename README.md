@@ -4,5 +4,5 @@
 
 ![Version](https://img.shields.io/badge/version-0.0.1--build-ED1E69)
 
-<h3>Programa de marketing para conquistar e fidelizar sócios para sindicatos</h3>
+<h3>Programa de marketing para conquistar e fidelizar sócios para entidades de vários tipos</h3>
 
